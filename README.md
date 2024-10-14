@@ -1,10 +1,10 @@
 # V3 Docker production
 
-> 🔔 [Subscribe](https://chv.to/newsletter) to don't miss any update regarding Chevereto.
+> 🔔 [Subscribe](https://chevereto.com/go/newsletter) to don't miss any update regarding Chevereto.
 
 <img alt="Chevereto" src="LOGO.svg" width="100%">
 
-[![Community](https://img.shields.io/badge/chv.to-community-blue?style=flat-square)](https://chv.to/community)
+[![Community](https://img.shields.io/badge/chevereto.com/go-community-blue?style=flat-square)](https://chevereto.com/go/community)
 
 Dockerfile template project for building and distributing container images for Chevereto projects to any container registry.
 
